@@ -31,8 +31,6 @@ body{
     color: #1c1c1c;
     margin-left: 1rem;
     text-decoration: none;
-    border-bottom: 4px solid var (--color-primary);
-    padding-bottom: 4px;
 }
 .zoo{
     position: relative;
@@ -100,3 +98,4 @@ body{
 .color-secondary { background: var(--color-secondary); }
 
 .color-accent { background: var(--color-accent); }
+
